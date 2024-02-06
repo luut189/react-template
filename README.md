@@ -13,6 +13,8 @@ git clone https://github.com/luut189/react-template.git
 cd react-template
 ```
 
+> Remember to delete the .git folder to remove connection with this repo :)
+
 Change the `name` inside the `package.json` to your actual project name.
 
 And then, to install all dependencies, make sure you have **Nodejs** installed and use:
