@@ -2,7 +2,13 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Additionally, this setup also includes TailwindCSS and Prettier.
+Additionally, this setup also includes **TailwindCSS** and **Prettier**.
+
+This setup also includes support for **shadcn/ui** components, which can be installed by:
+
+```bash
+npx shadcn@latest install <component(s)>
+```
 
 ## Usage
 
@@ -23,10 +29,10 @@ And then, to install all dependencies, make sure you have **Nodejs** installed a
 npm install
 ```
 
-Then, to start the dev server, use:
+To start the dev server, use:
 
 ```bash
 npm run dev
 ```
 
-And start to edit at `./src/App.tsx`
+And start editing at `./src/App.tsx`
